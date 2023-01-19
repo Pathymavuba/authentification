@@ -1,0 +1,20 @@
+{
+  "name": "authentification",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pathymavuba/authentification.git"
+  },
+  "author": "pathy mavuba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pathymavuba/authentification/issues"
+  },
+  "homepage": "https://github.com/Pathymavuba/authentification#readme",
+  "keywords": [],
+  "description": ""
+}
