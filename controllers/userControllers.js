@@ -55,7 +55,7 @@ exports.login = async(req,res)=>{
         return res.status(200).json({
             message:"user logged in successfully",
             payload: payload,
-            token: "Bearer"+token
+            token: token
         })
         
     } catch (error) {
